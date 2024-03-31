@@ -1,7 +1,9 @@
 Introduce to image filter
+
 • Noise and Images
 ➔Principal sources of noise in digital images: during image acquisition, during image transmission.
 ➔Image acquisition: image sensor might produce noise because of environmental conditions or quality of 
+
 • sensing elements.
 ➔Image transmission: interference in the channel
 
