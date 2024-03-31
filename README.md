@@ -50,7 +50,8 @@ Introduce to image filter
  • The effects of different spatial filters
 
 
-![1](https://github.com/Lin-Yu-Ming/Median-filter/assets/71814265/bc89fc40-0b23-4a33-9638-17529fa34907)
+![1](https://github.com/Lin-Yu-Ming/Median-filter/assets/71814265/baed094d-8a1b-4ab8-ada0-6675ce33a633)
+
 
 
 Hardware description
